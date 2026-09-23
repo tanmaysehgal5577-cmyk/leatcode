@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0217-contains-duplicate) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0242-valid-anagram) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2974-minimum-number-game](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/2974-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -60,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0027-remove-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
