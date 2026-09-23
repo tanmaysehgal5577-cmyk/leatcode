@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/2974-minimum-number-game) |
 ## Binary Search
