@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0066-plus-one) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2733-neither-minimum-nor-maximum](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -61,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/2652-sum-multiples) |
@@ -68,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/tanmaysehgal5577-cmyk/leatcode/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
